@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Qt, OpenGL & Multithreading**
 
-- 📫 How to reach me **lucas.chalmandrier43@gmail.com**
+- 📫 You can reach me at **lucas.chalmandrier43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
