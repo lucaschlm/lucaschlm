@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Chalmandrier</h1>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A Computer Science student passionate about Computer Vision and Artificial Intelligence in general</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaschlm&label=Profile%20views&color=0e75b6&style=flat" alt="lucaschlm" /> </p>
