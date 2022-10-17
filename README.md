@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A Computer Science student passionate about Computer Vision and Artificial Intelligence in general</h3>
+<h3 align="center">A Computer Science student passionate about Computer Vision and Artificial Intelligence</h3>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaschlm&show_icons=true&theme=gruvbox&title_color=ffbb00&text_color=fbd05b&locale=en" alt="lucaschlm" /></p> -->
 
