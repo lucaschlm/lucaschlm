@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaschlm&label=Profile%20views&color=0e75b6&style=flat" alt="lucaschlm" /> </p>
 
-- 🌱 I’m currently learning **Qt, OpenGL & Multithreading**
+- 🌱 I’m currently learning **Qt, OpenGL & 3D computer graphics**
 
 - 📫 You can reach me at **lucas.chalmandrier43@gmail.com**
 
